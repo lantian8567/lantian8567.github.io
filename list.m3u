@@ -1,4 +1,7 @@
-#EXTINF:39,閯傚皵澶氭柉-1 HD
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV 
+#EXTINF:39,鄂尔多斯-1 HD
 #EXTVLCOPT:file-caching=1000 
 http://live.erdszs.org.cn/lsdream/3lZr8dK/1000/live.m3u8
 
+ 
