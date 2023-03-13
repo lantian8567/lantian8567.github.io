@@ -1,5 +1,17 @@
 #EXTINF:39,鄂尔多斯-1 HD
 #EXTVLCOPT:file-caching=1000 
 http://live.erdszs.org.cn/lsdream/3lZr8dK/1000/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",C1
+https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Central
+https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Education
+https://cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ETV
+https://cdn1.skygo.mn/live/disk1/ETV/HLS-FTA/ETV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SBN
+https://cdn2.skygo.mn/live/disk1/SBN/HLS-FTA/SBN.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV9
+https://cdn2.skygo.mn/live/disk1/TV9HD/HLS-FTA/TV9HD.m3u8
 
  
