@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1,C1
+#EXTINF:-1",C1
 https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8
-#EXTINF:-1,Central
+#EXTINF:-1",Central
 https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
-#EXTINF:-1,Education
+#EXTINF:-1",Education
 https://cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
-#EXTINF:-1,ETV
+#EXTINF:-1",ETV
 https://cdn1.skygo.mn/live/disk1/ETV/HLS-FTA/ETV.m3u8
-#EXTINF:-1,SBN
+#EXTINF:-1",SBN
 https://cdn2.skygo.mn/live/disk1/SBN/HLS-FTA/SBN.m3u8
-#EXTINF:-1,TV9
+#EXTINF:-1",TV9
 https://cdn2.skygo.mn/live/disk1/TV9HD/HLS-FTA/TV9HD.m3u8
-#EXTINF:-1,Bloomberg TV Mongolia HD
+#EXTINF:-1",Bloomberg TV Mongolia HD
 https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
-#EXTINF:-1,Eagle News HD
+#EXTINF:-1",Eagle News HD
 https://cdn2.skygo.mn/live/disk1/Eagle/HLS-FTA/Eagle.m3u8
-#EXTINF:-1,MN25
+#EXTINF:-1",MN25
 https://cdn2.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
-#EXTINF:-1,Movie box
+#EXTINF:-1",Movie box
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
-#EXTINF:-1,NTV
+#EXTINF:-1",NTV
 https://cdn2.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
-#EXTINF:-1,ONTV
+#EXTINF:-1",ONTV
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
-#EXTINF:-1,Star TV
+#EXTINF:-1",Star TV
 https://cdn2.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
-#EXTINF:-1,TV5
+#EXTINF:-1",TV5
 https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8
-#EXTINF:-1,TV8
+#EXTINF:-1",TV8
 https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
-#EXTINF:-1,UBS
+#EXTINF:-1",UBS
 https://cdn1.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
-#EXTINF:-1,袦耶袨袧孝-1 HD
+#EXTINF:-1",袦耶袨袧孝-1 HD
 https://cdn3.skygo.mn/live/disk1/MNB/HLS-FTA/MNB.m3u8
-#EXTINF:-1,閯傚皵澶氭柉-1
+#EXTINF:-1",閯傚皵澶氭柉-1
 http://live.erdszs.org.cn/lsdream/3lZr8dK/1000/live.m3u8
 
 
