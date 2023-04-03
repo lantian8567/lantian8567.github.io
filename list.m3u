@@ -35,10 +35,6 @@ https://cdn2.skygo.mn/live/disk1/SBN/HLS-FTA/SBN.m3u8
 https://cdn2.skygo.mn/live/disk1/TV9HD/HLS-FTA/TV9HD.m3u8
 #EXTINF:-1,erduos-1
 http://live.erdszs.org.cn/lsdream/3lZr8dK/1000/live.m3u8
-#EXTINF:-1 ,Unknown_1 
-https://live9.m2oplus.nmtv.cn/nmgmgyws/hd/live.m3u8?sign=2699ef18d9adda746c3751cb5ef74b20&t=1679643023 
-#EXTINF:-1 ,Unknown_2 
-https://live9.m2oplus.nmtv.cn/nmgmgywh/hd/live.m3u8?sign=a1d6b2f61dd115cb6297dc35a3a681d3&t=1679644259
 #EXTINF:-1 ,Unknown_2
 https://live2.m2oplus.nmtv.cn/01/hd/live.m3u8?sign=cae01645b9d3e88707841f3c532f4a8d&t=1680535517
 #EXTINF:-1 ,Unknown_3
